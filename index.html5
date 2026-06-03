@@ -371,6 +371,7 @@ pengembangan sumber daya manusia yang unggul.
 
 </div>
 </div>
+    
 </section>
 
 <section id="services">
@@ -413,37 +414,34 @@ Pengembangan solusi energi berkelanjutan.
 </div>
 
 </div>
-</section>
+<section id="project">
+    <div class="container">
 
-<section class="stats">
+        <div class="section-title">
+            <h2>Project Saat Ini</h2>
+        </div>
 
-<div class="container">
+        <div class="service" style="max-width:800px;margin:auto;text-align:center;">
+            <h3>Pulau Bukom, Singapura</h3>
 
-<div class="stats-grid">
+            <p>
+                Saat ini PT Chevron Pacific Indonesia sedang mendukung
+                kegiatan proyek industri energi dan infrastruktur di
+                Pulau Bukom, Singapura, dengan fokus pada keselamatan,
+                efisiensi operasional, serta penerapan teknologi modern
+                untuk mendukung kebutuhan industri energi regional.
+            </p>
 
-<div>
-<h3>60+</h3>
-<p>Tahun Pengalaman</p>
-</div>
+            <br>
 
-<div>
-<h3>500+</h3>
-<p>Profesional</p>
-</div>
+            <a href="https://www.google.com/maps/search/?api=1&query=Pulau+Bukom+Singapore"
+               target="_blank"
+               class="btn">
+               📍 Lihat Lokasi Project
+            </a>
+        </div>
 
-<div>
-<h3>100+</h3>
-<p>Proyek Industri</p>
-</div>
-
-<div>
-<h3>24/7</h3>
-<p>Support</p>
-</div>
-
-</div>
-
-</div>
+    </div>
 
 </section>
 
